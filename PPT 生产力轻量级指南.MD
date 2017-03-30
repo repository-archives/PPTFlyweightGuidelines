@@ -14,9 +14,12 @@ PPT 生产力轻量级指南
 - ### PPT 是提纲，不是提词板
 	- PPT 是用来讲的，不是念的
 	- 不要把所有要讲的东西全放到 PPT 上（完整资料通过超链接或附录给出）
-- ### 利用思维导图理清整个 PPT 的脉络
+- ### 利用思维导图帮助理清整个 PPT 的脉络
 	- 构思的过程中，思维是发散的，而不是线性的
-	- 工具：[Xmind](https://www.xmind.net/)、[百度脑图](http://naotu.baidu.com/)、[MindManager](https://www.mindjet.com/mindmanager/)
+- ### 思维导图工具
+	- [Xmind](https://www.xmind.net/)
+	- [百度脑图](http://naotu.baidu.com/)
+	- [MindManager](https://www.mindjet.com/mindmanager/)
 	- 也可以使用 [Markdown](http://wowubuntu.com/markdown/)
 - ### 使用云笔记积累素材
 	- [印象笔记](https://www.yinxiang.com/)
