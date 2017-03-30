@@ -24,9 +24,13 @@ PPT 生产力轻量级指南
 	- [为知笔记]
 
 > [怎么使用思维导图？](https://www.zhihu.com/question/19651621)
+>
 > [如何使用思维导图做读书笔记？](https://www.zhihu.com/question/20092973)
+> 
 > [如何自学思维导图？](https://www.zhihu.com/question/23413559)
+> 
 > [撰写论文的过程中如何有效利用思维导图？](https://www.zhihu.com/question/21248595)
+> 
 > [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32)
 
 ## 模板 
@@ -44,9 +48,13 @@ PPT 生产力轻量级指南
 	- [锐普PPT]
 	
 > [PPT 模板的下载资源有哪些？](https://www.zhihu.com/question/19644160)
+> 
 > [如何下载 PPT 模板](https://www.zhihu.com/question/22762525/answer/123390086)
+> 
 > [如何找到好PPT背景图片？](https://www.zhihu.com/question/22805396)
+> 
 > [简单三步，打造梦幻的渐变背景](https://zhuanlan.zhihu.com/p/21437676?f3fb8ead20=0d99df288b4c7fe2eff8b851cac20807)
+> 
 > [Flat Surface Shader - 3D模拟照明效果生成多边形](http://www.tuquu.com/News/zczx1785.html)
 
 
@@ -59,7 +67,9 @@ PPT 生产力轻量级指南
 - ### 要有『强迫症』
 
 > [如何在PPT中突出重点？](https://zhuanlan.zhihu.com/p/24333456)
+> 
 > [如何排版文字较多的PPT？](https://www.zhihu.com/question/23996122)
+> 
 >  [史上最全的PPT图片排版教程（内含100+套构图建议）](http://card.weibo.com/article/h5/s#cid=1001603975022925479596&vid=1403645572&extparam=&from=1067293010&wm=3333_2001&ip=112.64.134.194)
 
 ## 图片
@@ -86,6 +96,7 @@ PPT 生产力轻量级指南
 	- [iconfont]
 
 > [更多的图标网站](http://www.cnblogs.com/math/p/sec005.html#3653074)
+> 
 > [有哪些分享图标资源的网站？](https://www.zhihu.com/question/20010323)
 
 ## 字体
@@ -94,6 +105,7 @@ PPT 生产力轻量级指南
 - ### 一个 PPT 中使用两到三种字体就够了
 
 >[扁平化设计中适用的中文字体？](https://www.zhihu.com/question/27574384)
+>
 >[PPT字体使用手册](https://zhuanlan.zhihu.com/p/22668882)
 
 ## 色彩
@@ -104,8 +116,11 @@ PPT 生产力轻量级指南
 	- [Material Design Color Palette]
 
 > [怎样的 PPT 配色会让人觉得舒服？](https://www.zhihu.com/question/30709836/answer/77132433)
+> 
 > [PPT配色手册](https://zhuanlan.zhihu.com/p/21824776)
+> 
 > [纯小白，如何傻瓜化搞定PPT配色？](https://zhuanlan.zhihu.com/p/24843371)
+> 
 > [配色手册：PPT常见的5种配色方式](https://zhuanlan.zhihu.com/p/22522068)
 
 ## 动画
@@ -141,11 +156,17 @@ PPT 生产力轻量级指南
 
 ## 提升
 > [新手应该如何迅速提高自己的PPT水平？](https://zhuanlan.zhihu.com/p/24321905)
+> 
 > [如何做出高大上的 PPT？](https://www.zhihu.com/question/29386330)
+> 
 > [打造高颜值PPT的素材与方法](https://zhuanlan.zhihu.com/p/22303142)
+> 
 > [如何让 PowerPoint 幻灯片「高大上」？](https://www.zhihu.com/question/22718708)
+> 
 > [有哪些制作好 PPT 的习惯？](https://www.zhihu.com/question/20274574)
+> 
 > [怎样做出优秀的扁平化设计风格 PPT 或 Keynote 幻灯片演示文稿？](https://www.zhihu.com/question/21274267)
+> 
 > [理工科科研结果展示怎样让 PPT 高大上？](https://www.zhihu.com/question/37422718) 
 
 
