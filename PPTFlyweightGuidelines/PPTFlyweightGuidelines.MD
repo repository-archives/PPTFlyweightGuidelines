@@ -2,106 +2,117 @@ PPT 生产力轻量级指南
 ==
 
 ## 建议
-- ### 安装 PowerPoint 最新版（目前是 2016 版） 
+- ### 安装 PowerPoint 最新版（目前是 2016 版）
 - ### 使用 PPTX 格式（体积更小，支持更多的效果）
 - ### 演示时，推荐使用翻页笔（更好地与听众互动）
 
 ## 内容
 - ### 内容才是吸引听众的关键
 - ### PPT 的类型
-	- 课件（文字比图表多）
-	- 展示（图表比文字多）
-- ### PPT 是提纲，不是提词板
-	- PPT 是用来讲的，不是念的
-	- 不要把所有要讲的东西全放到 PPT 上（完整资料通过超链接或附录给出）
+    - 课件（文字比图表多）
+    - 展示（图表比文字多）
+- ### PPT 是提纲，是演讲的辅助工具；不是提词板
+    - 演讲的主体是演讲人，PPT 只是辅助工具
+    - PPT 上的文字不宜过多，不能喧宾夺主，引走观众的注意力
+    - PPT 上的文字应当作为观众理解演示内容的提纲
 - ### 利用思维导图帮助理清整个 PPT 的脉络
-	- 构思的过程中，思维是发散的，而不是线性的
+    - 构思的过程中，思维是发散的，而不是线性的
 - ### 思维导图工具
-	- [Xmind](https://www.xmind.net/)
-	- [百度脑图](http://naotu.baidu.com/)
-	- [MindManager](https://www.mindjet.com/mindmanager/)
-	- 也可以使用 [Markdown](http://wowubuntu.com/markdown/)
+    - [Xmind](https://www.xmind.net/)
+    - [百度脑图](http://naotu.baidu.com/)
+    - [MindManager](https://www.mindjet.com/mindmanager/)
+    - 也可以使用 [Markdown](http://wowubuntu.com/markdown/)
 - ### 使用云笔记积累素材
-	- [印象笔记](https://www.yinxiang.com/)
-	- [有道云笔记](http://note.youdao.com/)
-	- [为知笔记](http://www.wiz.cn/)
+    - [印象笔记](https://www.yinxiang.com/)
+    - [有道云笔记](http://note.youdao.com/)
+    - [为知笔记](http://www.wiz.cn/)
 
 > [怎么使用思维导图？](https://www.zhihu.com/question/19651621)
 >
 > [如何使用思维导图做读书笔记？](https://www.zhihu.com/question/20092973)
-> 
+>
 > [如何自学思维导图？](https://www.zhihu.com/question/23413559)
-> 
+>
 > [撰写论文的过程中如何有效利用思维导图？](https://www.zhihu.com/question/21248595)
-> 
+>
 > [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32)
+> 
+> [印象笔记（Evernote）有哪些常见的用途？](https://www.zhihu.com/question/20418504)
+> 
+> [如何高效使用和整理印象笔记（Evernote）？](https://www.zhihu.com/question/25852838)
 
-## 模板 
-- ### 选择浅色背景（白色最佳），深色字体的模板
+
+
+## 模板
+- ### 选择浅色背景（白色最佳）、深色字体的模板
 - ### 使用模板
-	- 浅度使用——使用模板的主题
-	- 深度使用——使用模板的各种元素
+    - 浅度使用——使用模板的主题
+    - 深度使用——使用模板的各种元素
 - ### 长宽比例
-	- 4:3（适合大多数幕布）
-	- 16:9（更符合人的视觉，横向可以放下更多的内容）
+    - 4:3（适合大多数幕布）
+    - 16:9（更符合人的视觉，横向可以放下更多的内容）
 - ### 模板来源
-	- PowerPoint 自带
-	- [淘宝](https://s.taobao.com/search?initiative_id=tbindexz_20170329&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=ppt%E6%A8%A1%E6%9D%BF&suggest=0_1&_input_charset=utf-8&wq=PP&suggest_query=PP&source=suggest)
-	- [PPTSTORE](http://www.pptstore.net/)
-	- [锐普PPT](http://www.rapidbbs.cn/)
-	- [稻壳儿](http://list.docer.com/PPT%E6%A8%A1%E6%9D%BF/)
-	
+    - 已有的 PPT 文件
+    - PowerPoint 自带
+    - [淘宝](https://s.taobao.com/search?initiative_id=tbindexz_20170329&ie=utf8&spm=a21bo.50862.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=ppt%E6%A8%A1%E6%9D%BF&suggest=0_1&_input_charset=utf-8&wq=PP&suggest_query=PP&source=suggest)
+    - [PPTSTORE](http://www.pptstore.net/)
+    - [锐普PPT](http://www.rapidbbs.cn/)
+    - [稻壳儿](http://list.docer.com/PPT%E6%A8%A1%E6%9D%BF/)
+
 > [PPT 模板的下载资源有哪些？](https://www.zhihu.com/question/19644160)
-> 
+>
 > [如何下载 PPT 模板](https://www.zhihu.com/question/22762525/answer/123390086)
-> 
+>
 > [如何找到好PPT背景图片？](https://www.zhihu.com/question/22805396)
-> 
+>
 > [简单三步，打造梦幻的渐变背景](https://zhuanlan.zhihu.com/p/21437676?f3fb8ead20=0d99df288b4c7fe2eff8b851cac20807)
-> 
+>
 > [Flat Surface Shader - 3D模拟照明效果生成多边形](http://www.tuquu.com/News/zczx1785.html)
 
 
 ## 排版
-- ### 中英文之间要有空格
+- ### 中英文（包括公式）之间要有空格
 - ### 尽量保证正文字号在 20 磅以上
-- ### 利用字体的大小、字重、颜色突出重点
+- ### 利用字体的大小、字重、颜色突出重点，但颜色不宜过多
 - ### 尽可能做到图文并茂
 - ### 用好『版式』与『母版』
 - ### 要有『强迫症』
 
 > [如何在PPT中突出重点？](https://zhuanlan.zhihu.com/p/24333456)
-> 
+>
 > [如何排版文字较多的PPT？](https://www.zhihu.com/question/23996122)
-> 
+>
 >  [史上最全的PPT图片排版教程（内含100+套构图建议）](http://card.weibo.com/article/h5/s#cid=1001603975022925479596&vid=1403645572&extparam=&from=1067293010&wm=3333_2001&ip=112.64.134.194)
->  
+>
 > [如何高效地使用PPT的母版功能？](https://www.zhihu.com/question/21810828)
 
 ## 图片
 - ### 图片要为内容服务，使用的图片要贴切
 - ### 图片风格要统一
-- ### 如果是独立的图片，加上细边框
+- ### 尽量使用高画质的图片
+- ### 如果是有边界的图片，加上细边框
 - ### 如果是公开发表的 PPT（比如 MOOC 中使用的课件），要注意图片的版权
-- ### 图片搜索引擎 
-	- [必应图片搜索](http://cn.bing.com/images/)
-	- [Pixabay](https://pixabay.com/)
-	- [Pexels](https://www.pexels.com/)
-	- [Unsplash](https://unsplash.com/)
+- ### 图片搜索引擎
+    - [必应图片搜索](http://cn.bing.com/images/)
+    - [Pixabay](https://pixabay.com/)
+    - [Pexels](https://www.pexels.com/)
+    - [Unsplash](https://unsplash.com/)
 
 > [如何为 PPT 找合适的配图？](https://www.zhihu.com/question/20987759)
+> 
+> [用这三个工具搞定 PPT 中 99% 的配图](https://zhuanlan.zhihu.com/p/23301978?refer=zy-cai)
 
 ## 图标
 - ### 和文字配合使用，增加美观度
 - ### 使用图标作为图表的素材
 - ### 图标风格要统一（扁平 OR 拟物）
 - ### 图标网站
-	- [Icon Ninja](http://www.iconninja.com/)
-	- [ICONFINDER](https://www.iconfinder.com/)
-	- [iconfont](http://www.iconfont.cn/)
+    - [Icon Ninja](http://www.iconninja.com/)
+    - [ICONFINDER](https://www.iconfinder.com/)
+    - [iconfont](http://www.iconfont.cn/)
 
 > [更多的图标网站](http://www.cnblogs.com/math/p/sec005.html#3653074)
-> 
+>
 > [有哪些分享图标资源的网站？](https://www.zhihu.com/question/20010323)
 
 ## 字体
@@ -117,15 +128,15 @@ PPT 生产力轻量级指南
 - ### 模板自带配色方案
 - ### [Nodri Tools][Nordri Tools] 内置
 - ### 配色工具
-	- [NIPPON COLORS](http://nipponcolors.com/)
-	- [Material Design Color Palette](https://www.materialpalette.com/)
+    - [NIPPON COLORS](http://nipponcolors.com/)
+    - [Material Design Color Palette](https://www.materialpalette.com/)
 
 > [怎样的 PPT 配色会让人觉得舒服？](https://www.zhihu.com/question/30709836/answer/77132433)
-> 
+>
 > [PPT配色手册](https://zhuanlan.zhihu.com/p/21824776)
-> 
+>
 > [纯小白，如何傻瓜化搞定PPT配色？](https://zhuanlan.zhihu.com/p/24843371)
-> 
+>
 > [配色手册：PPT常见的5种配色方式](https://zhuanlan.zhihu.com/p/22522068)
 
 ## 动画
@@ -141,7 +152,7 @@ PPT 生产力轻量级指南
 ## 图表
 - ### 涉及到数据的内容，尽量使用图表来表现
 - ### 可以从数据可视化工具（如[百度 ECHARTS](http://echarts.baidu.com/examples.html)）中得到灵感
- 
+
 
 >[PPT图表使用手册](https://zhuanlan.zhihu.com/p/22483990)
 >
@@ -159,6 +170,7 @@ PPT 生产力轻量级指南
 - [Nordri Tools]（各种功能）
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)（屏幕放大）
 - [ScreenToGif](http://www.screentogif.com/)（屏幕录制）
+- [Faststone Capture](http://www.dayanzai.me/faststone-capture.html)（截图 + 屏幕录制）
 
 ## 技巧
 - [格式刷](https://support.office.com/zh-cn/article/使用格式刷-4bb415a9-d4e4-42b7-b579-170adc594e40?ui=zh-CN&rs=zh-CN&ad=CN&fromAR=1)
@@ -181,22 +193,26 @@ PPT 生产力轻量级指南
 
 ## 提升
 > [新手应该如何迅速提高自己的PPT水平？](https://zhuanlan.zhihu.com/p/24321905)
-> 
+>
 > [如何做出高大上的 PPT？](https://www.zhihu.com/question/29386330)
-> 
+>
 > [打造高颜值PPT的素材与方法](https://zhuanlan.zhihu.com/p/22303142)
-> 
+>
 > [如何让 PowerPoint 幻灯片「高大上」？](https://www.zhihu.com/question/22718708)
-> 
+>
 > [有哪些制作好 PPT 的习惯？](https://www.zhihu.com/question/20274574)
-> 
+>
 > [怎样做出优秀的扁平化设计风格 PPT 或 Keynote 幻灯片演示文稿？](https://www.zhihu.com/question/21274267)
+>
+> [理工科科研结果展示怎样让 PPT 高大上？](https://www.zhihu.com/question/37422718)
 > 
-> [理工科科研结果展示怎样让 PPT 高大上？](https://www.zhihu.com/question/37422718) 
+> [如何评价百度大 UE 总监刘超在 2016 国际体验设计大会的演讲？](https://www.zhihu.com/question/48051118)（反例）
+
+
 
 
 
 ## 实战
-- [我编写的《计算机应用基础》课中的《PowerPoint 的进阶操作》](http://pan.baidu.com/share/link?shareid=416737389&uk=2384424987)
+- [我编写的《计算机应用基础》课中的《PowerPoint 的进阶操作》](http://pan.baidu.com/share/link?shareid=416737389&uk=2384424987)（[效果](https://docs.com/d/editwithcontentview/_DJxEZJURSQoh0YAAWKSJxRQ~Mc3618918-f734-9170-d57a-3e1423808674?disclosureScope=Public)）
 
 [Nordri Tools]: http://www.nordritools.com/
