@@ -184,6 +184,7 @@ PPT 生产力轻量级指南
 - [可以直接播放的 PPSX 格式](http://jingyan.baidu.com/article/afd8f4de90aad934e386e959.html)
 - [超链接](https://zhuanlan.zhihu.com/p/24458317)
 - [对象对齐](https://support.office.com/zh-CN/article/%E5%AF%B9%E9%BD%90%E6%88%96%E6%8E%92%E5%88%97%E5%9B%BE%E7%89%87%E3%80%81%E5%BD%A2%E7%8A%B6%E3%80%81%E6%96%87%E6%9C%AC%E6%A1%86%E6%88%96%E8%89%BA%E6%9C%AF%E5%AD%97-BFD91078-2078-4B35-8672-F6270690B3B8)
+- [SmartArt](http://jingyan.baidu.com/article/75ab0bcbf58f4ed6864db2a0.html)
 
 ## 大拿
 - [我爱PPT](http://weibo.com/u/1773724425?profile_ftype=1&is_all=1#_0)
